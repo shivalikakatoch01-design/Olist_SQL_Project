@@ -42,21 +42,21 @@ The goal was to think like a business analyst: not just query the data, but pull
 
 
 
-- Revenue grew from \~46K in 2016 to \~8.4M in 2018,a strong year-on-year growth.
+- Revenue grew from \~46K in 2016 to \~8.4M in 2018 - a strong year-on-year growth.
 
 - November 2017 spike is clearly Black Friday driven.
 
 - Bed, bath \& table and health \& beauty are the top revenue-generating categories.
 
-- Top seller made \~$505K from just 973 orders,the highest revenue per order, likely premium products.
+- Top seller made \~$505K from just 973 orders - highest revenue per order, likely premium products.
 
 - 91.9% of orders were delivered on time.
 
 - Credit card dominates at 74% of all transactions.
 
-- Sao Paulo alone accounts for \~42% of all customers.
+- São Paulo alone accounts for \~42% of all customers.
 
-- Bed & bath has the highest orders but below-average satisfaction which is a potential quality issue worth investigating.
+- Bed \& bath has the highest orders but below-average satisfaction which is a potential quality issue worth investigating.
 
 
 
