@@ -1,11 +1,5 @@
 USE olist_db;
 
--- ============================================
--- Olist E-Commerce Business Case Analysis
--- Analyst: Shivalika
--- Dataset: Olist Brazilian E-Commerce (Kaggle)
--- ============================================
-
 -- Q1: Total Revenue and Orders by Year
 SELECT 
     YEAR(o.order_purchase_timestamp) AS year,
